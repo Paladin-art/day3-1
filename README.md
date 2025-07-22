@@ -1,5 +1,7 @@
-# power_transformer_fault_detection
-![https://arxiv.org/abs/2505.06295](arxiv.org)
+# Power_Transformer_Fault_Detection
+
+ Check out the paper on arxiv here: [https://arxiv.org/abs/2505.06295]
+ 
 ## Abstract
 Accurate diagnosis of power transformer faults is
 essential for ensuring the stability and safety of electrical
