@@ -1,5 +1,5 @@
 # power_transformer_fault_detection
-
+![https://arxiv.org/abs/2505.06295](arxiv.org)
 ## Abstract
 Accurate diagnosis of power transformer faults is
 essential for ensuring the stability and safety of electrical
